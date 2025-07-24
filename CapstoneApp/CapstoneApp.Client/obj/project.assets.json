@@ -1967,23 +1967,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\978199\\.nuget\\packages\\": {},
+    "C:\\Users\\Papa Miller\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\978199\\source\\repos\\CapstoneApp\\CapstoneApp\\CapstoneApp.Client\\CapstoneApp.Client.csproj",
+      "projectUniqueName": "C:\\Users\\Papa Miller\\Source\\Repos\\HPC-Technical-Capstone\\CapstoneApp\\CapstoneApp.Client\\CapstoneApp.Client.csproj",
       "projectName": "CapstoneApp.Client",
-      "projectPath": "C:\\Users\\978199\\source\\repos\\CapstoneApp\\CapstoneApp\\CapstoneApp.Client\\CapstoneApp.Client.csproj",
-      "packagesPath": "C:\\Users\\978199\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\978199\\source\\repos\\CapstoneApp\\CapstoneApp\\CapstoneApp.Client\\obj\\",
+      "projectPath": "C:\\Users\\Papa Miller\\Source\\Repos\\HPC-Technical-Capstone\\CapstoneApp\\CapstoneApp.Client\\CapstoneApp.Client.csproj",
+      "packagesPath": "C:\\Users\\Papa Miller\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Papa Miller\\Source\\Repos\\HPC-Technical-Capstone\\CapstoneApp\\CapstoneApp.Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\978199\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Papa Miller\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1992,7 +1992,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
